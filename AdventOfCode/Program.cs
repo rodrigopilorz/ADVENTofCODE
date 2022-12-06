@@ -3,6 +3,8 @@
 part1();
 part2();
 
+Console.ReadKey();
+
 void part1()
 {
     char[] charArr = pzlInput.ToCharArray();
@@ -64,6 +66,5 @@ void part2()
         
     }
 
-    Console.ReadKey();
 }
 
