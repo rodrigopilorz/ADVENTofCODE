@@ -27,7 +27,6 @@ void part1()
 
     }
 
-    Console.ReadKey();
 }
 
 void part2()
